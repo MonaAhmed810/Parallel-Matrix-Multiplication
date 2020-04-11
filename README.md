@@ -1,2 +1,2 @@
 # Parallel-Matrix-Multiplication
-Parallel solution using MPI
+Parallel Matrix Multiplication using MPI
